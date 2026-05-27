@@ -79,7 +79,7 @@ export function Contact() {
         </div>
 
         <div className="mt-24 pt-8 border-t border-border text-center text-sm text-muted-foreground">
-          © {new Date().getFullYear()} Richard Martinez — Senior Software Engineer · Analytics · Full Stack · Data Engineering
+          © {new Date().getFullYear()} Richard Martinez - Senior Software Engineer · Analytics · Full Stack Developer
         </div>
       </div>
     </section>
