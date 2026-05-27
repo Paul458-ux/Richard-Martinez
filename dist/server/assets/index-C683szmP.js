@@ -1,5 +1,5 @@
-import { S as reactExports, J as jsxRuntimeExports, R as React } from "./server-CDo0khop.js";
-import { R as ReactDOM } from "./router-3x8yYHd3.js";
+import { S as reactExports, J as jsxRuntimeExports, R as React } from "./server-DxjdkO5G.js";
+import { R as ReactDOM } from "./router-MlSPyqcP.js";
 import "node:async_hooks";
 import "node:stream/web";
 import "node:stream";
@@ -8388,7 +8388,7 @@ const __iconNode = [
   ["circle", { cx: "9", cy: "7", r: "4", key: "nufk8" }]
 ];
 const Users = createLucideIcon("users", __iconNode);
-const logo = "/assets/richard-portrait-CQcuDEgc.png";
+const logo = "/assets/richard-portrait-Dp5HwJr1.png";
 const variants = {
   fade: { hidden: { opacity: 0, y: 30 }, show: { opacity: 1, y: 0 } },
   rise: { hidden: { opacity: 0, y: 60 }, show: { opacity: 1, y: 0 } },
@@ -8434,7 +8434,7 @@ function Home() {
           /* @__PURE__ */ jsxRuntimeExports.jsx("span", { className: "text-cyan-glow", children: "analytics-driven platforms" }),
           " that move metrics."
         ] }) }),
-        /* @__PURE__ */ jsxRuntimeExports.jsx(Reveal, { variant: "fade", delay: 0.4, children: /* @__PURE__ */ jsxRuntimeExports.jsx("p", { className: "mt-6 max-w-xl text-muted-foreground leading-relaxed", children: "10+ years engineering full stack apps, ETL pipelines, KPI dashboards, and AI-assisted BI workflows for enterprise and healthcare — turning ambiguous questions into reliable decisions." }) }),
+        /* @__PURE__ */ jsxRuntimeExports.jsx(Reveal, { variant: "fade", delay: 0.4, children: /* @__PURE__ */ jsxRuntimeExports.jsx("p", { className: "mt-6 max-w-xl text-muted-foreground leading-relaxed", children: "10+ years engineering full stack apps, ETL pipelines, KPI dashboards, and AI-assisted BI workflows for enterprise and healthcare turning ambiguous questions into reliable decisions." }) }),
         /* @__PURE__ */ jsxRuntimeExports.jsx(Reveal, { variant: "fade", delay: 0.55, children: /* @__PURE__ */ jsxRuntimeExports.jsxs("div", { className: "mt-10 flex flex-wrap gap-4", children: [
           /* @__PURE__ */ jsxRuntimeExports.jsxs("a", { href: "#projects", className: "group inline-flex items-center gap-2 px-7 py-3.5 rounded-full bg-gradient-brand text-primary-foreground font-semibold shadow-glow hover:shadow-cyan transition-all", children: [
             "View My Work",

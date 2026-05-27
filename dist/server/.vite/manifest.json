@@ -3,12 +3,12 @@
     "file": "assets/styles-daVNcqGa.css",
     "src": "C:/Users/PunSuKu/Desktop/vinicius-portfolio/Richard-Martinez/src/styles.css"
   },
-  "_router-3x8yYHd3.js": {
-    "file": "assets/router-3x8yYHd3.js",
+  "_router-MlSPyqcP.js": {
+    "file": "assets/router-MlSPyqcP.js",
     "name": "router",
     "isDynamicEntry": true,
     "imports": [
-      "_server-CDo0khop.js"
+      "_server-DxjdkO5G.js"
     ],
     "dynamicImports": [
       "src/routes/index.tsx?tsr-split=component"
@@ -17,22 +17,22 @@
       "assets/styles-daVNcqGa.css"
     ]
   },
-  "_server-CDo0khop.js": {
-    "file": "assets/server-CDo0khop.js",
+  "_server-DxjdkO5G.js": {
+    "file": "assets/server-DxjdkO5G.js",
     "name": "server",
     "isDynamicEntry": true,
     "dynamicImports": [
       "tanstack-start-manifest:v",
-      "_router-3x8yYHd3.js",
+      "_router-MlSPyqcP.js",
       "src/start.ts",
       "node_modules/@tanstack/start-server-core/dist/esm/empty-plugin-adapters.js"
     ]
   },
-  "_worker-entry-bJW5fMDG.js": {
-    "file": "assets/worker-entry-bJW5fMDG.js",
+  "_worker-entry-D-M1tBLS.js": {
+    "file": "assets/worker-entry-D-M1tBLS.js",
     "name": "worker-entry",
     "dynamicImports": [
-      "_server-CDo0khop.js"
+      "_server-DxjdkO5G.js"
     ]
   },
   "node_modules/@tanstack/start-server-core/dist/esm/empty-plugin-adapters.js": {
@@ -70,21 +70,21 @@
     "src": "src/assets/richard-logo.png"
   },
   "src/assets/richard-portrait.png": {
-    "file": "assets/richard-portrait-CQcuDEgc.png",
+    "file": "assets/richard-portrait-Dp5HwJr1.png",
     "src": "src/assets/richard-portrait.png"
   },
   "src/routes/index.tsx?tsr-split=component": {
-    "file": "assets/index-CfaLAow_.js",
+    "file": "assets/index-C683szmP.js",
     "name": "index",
     "src": "src/routes/index.tsx?tsr-split=component",
     "isDynamicEntry": true,
     "imports": [
-      "_server-CDo0khop.js",
-      "_router-3x8yYHd3.js"
+      "_server-DxjdkO5G.js",
+      "_router-MlSPyqcP.js"
     ],
     "assets": [
       "assets/richard-logo-CPz2gDs-.png",
-      "assets/richard-portrait-CQcuDEgc.png",
+      "assets/richard-portrait-Dp5HwJr1.png",
       "assets/project-1-Qhs1cGia.jpg",
       "assets/project-2-DAFlI0Fz.jpg",
       "assets/project-3-2vzniTel.jpg",
@@ -94,17 +94,17 @@
     ]
   },
   "src/start.ts": {
-    "file": "assets/start-DPIh9A4U.js",
+    "file": "assets/start-Br9HnKwP.js",
     "name": "start",
     "src": "src/start.ts",
     "isDynamicEntry": true,
     "imports": [
-      "_server-CDo0khop.js",
-      "_worker-entry-bJW5fMDG.js"
+      "_server-DxjdkO5G.js",
+      "_worker-entry-D-M1tBLS.js"
     ]
   },
   "tanstack-start-manifest:v": {
-    "file": "assets/_tanstack-start-manifest_v-BS7u0FCX.js",
+    "file": "assets/_tanstack-start-manifest_v-CNKH1F5a.js",
     "name": "_tanstack-start-manifest_v",
     "src": "tanstack-start-manifest:v",
     "isDynamicEntry": true
@@ -115,7 +115,7 @@
     "src": "virtual:cloudflare/worker-entry",
     "isEntry": true,
     "imports": [
-      "_worker-entry-bJW5fMDG.js"
+      "_worker-entry-D-M1tBLS.js"
     ]
   }
 }
