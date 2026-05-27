@@ -29,7 +29,7 @@ export function Home() {
           <Reveal variant="fade" delay={0.4}>
             <p className="mt-6 max-w-xl text-muted-foreground leading-relaxed">
               10+ years engineering full stack apps, ETL pipelines, KPI dashboards, and AI-assisted
-              BI workflows for enterprise and healthcare — turning ambiguous questions into reliable decisions.
+              BI workflows for enterprise and healthcare turning ambiguous questions into reliable decisions.
             </p>
           </Reveal>
           <Reveal variant="fade" delay={0.55}>
