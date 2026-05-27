@@ -119,7 +119,7 @@ export function LoadingScreen({ onDone }: { onDone: () => void }) {
             ))}
           </div>
           <div className="mt-4 text-[10px] tracking-[0.3em] text-muted-foreground uppercase">
-            Felipe B · Loading Experience
+            Richard M · Loading Experience
           </div>
         </motion.div>
       )}
